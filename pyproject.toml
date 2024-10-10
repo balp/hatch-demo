@@ -31,6 +31,12 @@ Documentation = "https://github.com/balp/hatch-demo#readme"
 Issues = "https://github.com/balp/hatch-demo/issues"
 Source = "https://github.com/balp/hatch-demo"
 
+[project.scripts]
+cli-name = "hatch_demo.hello:hello"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/hatch_demo"]
+
 [tool.hatch.version]
 path = "src/hatch_demo/__about__.py"
 
