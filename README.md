@@ -13,9 +13,9 @@
 ## Installation
 
 ```console
-pip install hatch-demo
+python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps hatch-demo-balp
 ```
 
 ## License
 
-`hatch-demo` is distributed under the terms of the [ISC](https://spdx.org/licenses/ISC.html) license.
+`hatch-demo-balp` is distributed under the terms of the [ISC](https://spdx.org/licenses/ISC.html) license.
