@@ -1,7 +1,7 @@
 # Hatch Demo
 
-[![PyPI - Version](https://img.shields.io/pypi/v/hatch-demo.svg)](https://pypi.org/project/hatch-demo)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hatch-demo.svg)](https://pypi.org/project/hatch-demo)
+[!![PyPI - Version](https://img.shields.io/pypi/v/hatch-demo-balp?pypiBaseUrl=https%3A%2F%2Ftest.pypi.prg)](https://test.pypi.org/project/hatch-demo-balp)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hatch-demo-balp?pypiBaseUrl=https%3A%2F%2Ftest.pypi.org)](https://test.pypi.org/project/hatch-demo-balp)
 
 -----
 
